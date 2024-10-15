@@ -60,9 +60,9 @@ A passionate web developer.
     - Designed various user flows catering to diverse needs and plans of farmers.
     - Collaborated effectively with a team to execute the project efficiently and achieve desired outcomes.
 - **Repository Contributions**:
-    - **Flask Admin**: Contributed to the administration backend for managing application data and user interactions.
-    - **Backend for Bolbhav**: Developed and maintained the backend services, ensuring reliable data processing and storage with PostgreSQL.
-    - **Frontend for Bolbhav**: Implemented the frontend features in the React Native application, focusing on usability and performance.
+    - **[Flask Admin](https://github.com/Gramhal-Foundation/flask_admin)**: Contributed to the administration backend for managing application data and user interactions.
+    - **[Backend for Bolbhav](https://github.com/Gramhal-Foundation/listag)**: Developed and maintained the backend services, ensuring reliable data processing and storage with PostgreSQL.
+    - **[Frontend for Bolbhav](https://github.com/Gramhal-Foundation/bolbhav-android)**: Implemented the frontend features in the React Native application, focusing on usability and performance.
 - **Team size:** 4  
 - **Duration:** 8 months
 
