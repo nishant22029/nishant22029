@@ -54,14 +54,14 @@ A passionate web developer.
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=stars&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishant22029&show_icons=true&count_private=true&hide=stars&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishant22029&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant22029&layout=compact&theme=tokyonight)
 
 ---
 
 ## Badges
-- ![Commit Activity](https://img.shields.io/github/commit-activity/m/your-github-username/repository-name)
-- ![Issues](https://img.shields.io/github/issues/your-github-username/repository-name)
+- ![Commit Activity](https://img.shields.io/github/commit-activity/m/nishant22029/repository-name)
+- ![Issues](https://img.shields.io/github/issues/nishant22029/repository-name)
