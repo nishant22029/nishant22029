@@ -44,7 +44,30 @@ A passionate web developer.
 - **Team size:** 50  
 - **Duration:** 3 months
 
+#### [Coko](https://coko.foundation/)
+- **Technologies:** React.js, GraphQL, Node.js, PostgreSQL
+- **Description:**
+    - **User Interface Development**: Designed and implemented intuitive, user-friendly interfaces tailored for publishers and reviewers, significantly enhancing the overall user experience on the platform.
+    - **Contributions to Repositories**: Actively contributed to various repositories within the Coko Foundation, including notable projects such as [Ketida](https://gitlab.coko.foundation/ketty/bookbuilder) and [NCBI](https://gitlab.coko.foundation/ncbi/ncbi), collaborating with team members to ensure high-quality code and robust solutions.
+    - **Feature Development**: Spearheaded the development of multiple features to streamline workflows, improving functionality and accessibility for users.
+- **Team size:** 6  
+- **Duration:** 6 months
+
+#### [Bolbhav](https://github.com/Gramhal-Foundation/listag)
+- **Technologies:** React Native, Flask, PostgreSQL, Python
+- **Description:**
+    - Developed user-friendly iOS and Android applications tailored for farmers, offering valuable services and information.
+    - Designed various user flows catering to diverse needs and plans of farmers.
+    - Collaborated effectively with a team to execute the project efficiently and achieve desired outcomes.
+- **Repository Contributions**:
+    - **Flask Admin**: Contributed to the administration backend for managing application data and user interactions.
+    - **Backend for Bolbhav**: Developed and maintained the backend services, ensuring reliable data processing and storage with PostgreSQL.
+    - **Frontend for Bolbhav**: Implemented the frontend features in the React Native application, focusing on usability and performance.
+- **Team size:** 4  
+- **Duration:** 8 months
+
 ---
+
 ---
 
 ## 🏆 GitHub Trophies
