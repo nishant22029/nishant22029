@@ -81,7 +81,5 @@ A passionate web developer.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishant22029&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant22029&layout=compact&theme=tokyonight)
-
 ---
 
