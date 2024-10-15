@@ -1,8 +1,7 @@
 ## Hi, I'm Nishant Kumar 👋
 A passionate web developer.
 
-📫 **How to reach me:** [youremail@example.com](mailto:youremail@example.com)  
-🌐 **Portfolio link:** [https://your-portfolio-link.com](https://your-portfolio-link.com)
+📫 **How to reach me:** [nishant.kumar@coloredcow.in](nishant.kumar@coloredcow.in)  
 
 ---
 
