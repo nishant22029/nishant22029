@@ -62,8 +62,3 @@ A passionate web developer.
 
 ---
 
-![Commit Activity](https://img.shields.io/github/commit-activity/m/nishant22029/repository-name)
-
-### Badge Earned
-[![Contribution](https://img.shields.io/badge/Contribution-28a745?style=flat-square)](https://github.com/Gramhal-Foundation/listag/pull/508)
-
