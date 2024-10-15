@@ -71,7 +71,7 @@ A passionate web developer.
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&margin-w=15&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nishant22029&theme=flat&no-frame=true&margin-w=15&column=7)
 
 ---
 
