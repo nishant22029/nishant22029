@@ -1,5 +1,5 @@
 ## Hi, I'm Nishant Kumar 👋
-A passionate web developer.
+A passionate Software Engineer.
 
 📫 **How to reach me:** [nishant.kumar@coloredcow.in](nishant.kumar@coloredcow.in)  
 
