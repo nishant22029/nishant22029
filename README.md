@@ -66,6 +66,26 @@ A passionate Software Engineer.
 - **Team size:** 4  
 - **Duration:** 8 months
 
+#### [Goonj CRM]([https://github.com/Gramhal-Foundation/listag](https://github.com/ColoredCow/goonj))
+- **Technologies: CiviCRM, PHP, MySQL, WordPress**
+- **Description:**
+    - Contributed to the development of a CRM system for Goonj to manage donor relationships, campaign activities, and reporting dashboards.
+    - Customized CiviCRM extensions to support NGO-specific use cases such as donation tracking, beneficiary management, and automated email workflows
+    - Collaborated with domain experts and stakeholders to deliver a system aligned with Goonj’s operational needs.
+    - Ensured data integrity and reporting reliability across large datasets by writing optimized queries and validation logic.
+- **Team size:** 8
+- **Duration:** 8 months
+
+### [BoierPlate Backend](https://github.com/ColoredCow/laravel-init/)
+- **Technologies: Larval, mysql
+- **Description:**
+    - Boiler plate for sign up, login and profile management
+### [BoierPlate Frontend](https://github.com/ColoredCow/nextjs-init/)
+- **Technologies: Nextjs
+- **Description:**
+    - Boiler plate for sign up, login and profile management
+- **Team size:** 2
+- **Duration:** 2 months
 ---
 
 ---
