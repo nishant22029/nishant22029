@@ -1,7 +1,7 @@
 ## Hi, I'm Nishant Kumar 👋
 A passionate Software Engineer.
 
-📫 **How to reach me:** [nishant.kumar@coloredcow.in](nishant.kumar@coloredcow.in)  
+📫 **How to reach me:** [nishanthaldar@gmail.com](nishanthaldar@gmail.com)  
 
 ---
 
